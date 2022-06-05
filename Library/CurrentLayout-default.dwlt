@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1858
     height: 1037
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -234,7 +234,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1540
+    width: 1440
     height: 987
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
@@ -259,8 +259,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1540
-    height: 683
+    width: 1440
+    height: 582
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
@@ -282,8 +282,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 382
-    height: 683
+    width: 350
+    height: 582
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
@@ -306,10 +306,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 382
+    x: 350
     y: 0
-    width: 1158
-    height: 683
+    width: 1090
+    height: 582
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
@@ -334,9 +334,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 683
-    width: 1540
-    height: 304
+    y: 582
+    width: 1440
+    height: 405
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 19}
@@ -360,9 +360,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1540
+    x: 1440
     y: 0
-    width: 318
+    width: 418
     height: 987
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
@@ -391,10 +391,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 382
+    x: 350
     y: 73
-    width: 1156
-    height: 662
+    width: 1088
+    height: 561
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -438,23 +438,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 1156
-      height: 641
-    m_Scale: {x: 0.5935185, y: 0.5935185}
-    m_Translation: {x: 578, y: 320.5}
+      width: 1088
+      height: 540
+    m_Scale: {x: 0.5, y: 0.5}
+    m_Translation: {x: 544, y: 270}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -973.8534
+      x: -1088
       y: -540
-      width: 1947.7068
+      width: 2176
       height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 0.5935185
-  m_LastWindowPixelSize: {x: 1156, y: 662}
+  m_defaultScale: 0.5
+  m_LastWindowPixelSize: {x: 1088, y: 561}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -482,29 +482,29 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
-    width: 381
-    height: 662
+    width: 349
+    height: 561
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 82f9ffff
-      m_LastClickedID: -1662
-      m_ExpandedIDs: 82f9ffff5efbffff
+      scrollPos: {x: 0, y: 100}
+      m_SelectedIDs: 0e6effff
+      m_LastClickedID: -37362
+      m_ExpandedIDs: 5a4dfeff724dfeff684efeff6c4efeff9076feffa281feffba85feffd285feffc886feffcc86feffd2c2feff1cc7feff54e4feff1e16ffff5e3affff763affff643bffff683bffff2844ffffc244ffffda44ffffe244ffffe644ffff6246ffff7a46ffff6c47ffff7447ffff504cffff684cffff564dffff5a4dfffff068ffff0869fffff869fffffc69ffff046cffff0e6effff389bffff26caffff5efbfffff4ffffffa24e0000ca4e0000d0cf0100e6cf0100ecd001001cd10100eea2050080a9050000b60500a2ca060034d10600b4dd0600def00600b2f10600d66e07001c7d0700ae830700aaa307002ca407003e880900909a090084a7090046b009006eba090060bb09009abb090006bc0900dc871a0082931a00de981a005aa41a004ea71a00c0a81a001eab1a0068b91a00f6bb1a00cccf1a00
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: '[OBSTACLES] Moving Spiked Saw'
+        m_OriginalName: '[OBSTACLES] Moving Spiked Saw'
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -104934
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 12}
       m_SearchString: 
@@ -534,10 +534,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 382
+    x: 350
     y: 73
-    width: 1156
-    height: 662
+    width: 1088
+    height: 561
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
@@ -550,9 +550,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 11.672762, y: 10.287549, z: -6.4068403}
+    m_Target: {x: 325.767, y: 10.617316, z: -32.88738}
     speed: 2
-    m_Value: {x: 11.672762, y: 10.287549, z: -6.4068403}
+    m_Value: {x: 325.767, y: 10.617316, z: -32.88738}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -599,13 +599,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.109345704, y: -0.5345737, z: 0.10157036, w: 0.83381957}
+    m_Target: {x: 0.02651534, y: -0.030282548, z: 0.027355377, w: 1.0005455}
     speed: 2
-    m_Value: {x: 0.109165885, y: -0.53369457, z: 0.101403326, w: 0.8324483}
+    m_Value: {x: 0.02638755, y: -0.033226617, z: 0.027387464, w: 0.99872404}
   m_Size:
-    m_Target: 1.6987635
+    m_Target: 9.407852
     speed: 2
-    m_Value: 1.6987635
+    m_Value: 9.407852
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -651,9 +651,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 756
-    width: 1539
-    height: 283
+    y: 655
+    width: 1439
+    height: 384
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -668,36 +668,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scene
+    - Assets/Prefab/Obstacles
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 89
   m_LastFolders:
-  - Assets/Scene
+  - Assets/Prefab/Obstacles
   m_LastFoldersGridSize: 89
   m_LastProjectPath: C:\Users\Hubert\Hawaii
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 269}
-    m_SelectedIDs: 46560000
-    m_LastClickedID: 22086
-    m_ExpandedIDs: 00000000f6550000f855000000ca9a3b
+    scrollPos: {x: 0, y: 216}
+    m_SelectedIDs: 38560000
+    m_LastClickedID: 22072
+    m_ExpandedIDs: 00000000f6550000f85500003c5600003e5600004c56000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Scenes
+      m_OriginalName: Scenes
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 22088
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 14}
     m_SearchString: 
@@ -739,7 +739,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000024300004a4300005a4300003446000098480000767f000000000000
+    m_ExpandedInstanceIDs: c6230000024300004a4300005a4300003446000098480000767f000000000000ce1a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -812,9 +812,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1540
+    x: 1440
     y: 73
-    width: 317
+    width: 417
     height: 966
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []

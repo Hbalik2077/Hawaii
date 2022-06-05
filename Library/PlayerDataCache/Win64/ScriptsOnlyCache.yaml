@@ -2,7 +2,6 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - AdmobController
-    - AdsManager
     - AutoDestroy
     - Block
     - BtnPressFX
@@ -47,6 +46,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
+    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
@@ -126,8 +126,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1766}
     - Class: 114
-      Script: {instanceID: 2816}
-    - Class: 114
       Script: {instanceID: 2878}
     - Class: 114
       Script: {instanceID: 2920}
@@ -149,8 +147,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 4346}
     - Class: 114
       Script: {instanceID: 4784}
-    - Class: 114
-      Script: {instanceID: 4840}
     - Class: 114
       Script: {instanceID: 5188}
     - Class: 114
@@ -275,6 +271,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3258}
     - Class: 114
+      Script: {instanceID: 3284}
+    - Class: 114
       Script: {instanceID: 3324}
     - Class: 114
       Script: {instanceID: 3400}
@@ -310,6 +308,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 4784}
     - Class: 114
       Script: {instanceID: 4798}
+    - Class: 114
+      Script: {instanceID: 4840}
     - Class: 114
       Script: {instanceID: 4852}
     - Class: 114
@@ -1331,4 +1331,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/hawai launcher.unity
   - Assets/hawai4.unity
-  playerPath: C:/Users/Hubert/Desktop/hawai 1.0/hawaii 1.1/Hawaii.exe
+  playerPath: C:/Users/Hubert/Desktop/hawai 1.0/hawaii 1.1/hawaii 1.4/Hawaii.exe

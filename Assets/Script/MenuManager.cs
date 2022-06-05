@@ -239,6 +239,6 @@ public class MenuManager : MonoBehaviour
     {
         GlobalValue.levelPlaying = -1;
         LoadingUI.SetActive(true);
-        SceneManager.LoadSceneAsync("HomeScene");
+        SceneManager.LoadSceneAsync("hawai launcher");
     }
 }
