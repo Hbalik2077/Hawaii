@@ -2775,7 +2775,7 @@ MonoBehaviour:
   star1: {fileID: 5274994932070660952}
   star2: {fileID: 1725332754112471882}
   star3: {fileID: 2153355774193918740}
-  collectColor: {r: 0.28662398, g: 1, b: 0.015686274, a: 1}
+  collectColor: {r: 0.95205986, g: 1, b: 0.015686274, a: 1}
   soundImage: {fileID: 6340882148851011062}
   musicImage: {fileID: 4347567493453776342}
   soundImageOn: {fileID: 21300000, guid: bdad8d463cd1d4f8a8256d173b10f757, type: 3}
