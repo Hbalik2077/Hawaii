@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/hawai4.unity
+- path: Assets/hawai launcher.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

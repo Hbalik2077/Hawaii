@@ -46,7 +46,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
@@ -164,7 +163,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6442}
     - Class: 114
-      Script: {instanceID: 28898}
+      Script: {instanceID: 29046}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -343,7 +342,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6628}
     - Class: 114
-      Script: {instanceID: 23672}
+      Script: {instanceID: 23670}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1335,4 +1334,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/hawai launcher.unity
   - Assets/hawai4.unity
-  playerPath: C:/Users/Hubert/Desktop/hawai 1.0/hawaii 1.1/hawai 1.6/hawaii 1.7/Hawaii.exe
+  playerPath: C:/Users/Hubert/Hawaii/Built up game/Hawaii.exe
